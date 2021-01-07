@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to eat delicious food and read comics,watching movies,series, travel new places & hangout with my friends.
--->
 
+### Boom Camp Training:
+- ##Front End & Back End Courses
+- An immersive software development bootcamp where I spent 4 months in each course's learning and working on various projects to build my Web Development skills. learn more about Boom Camp.
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
